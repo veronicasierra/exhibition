@@ -1,0 +1,32 @@
+body {
+    background: url("images/colorbackground.jpg");
+	background-color: blue;
+} 
+
+h1 {
+	color: black;
+    text-align: center;
+	
+ } 
+ 
+ p { 
+     font-family: verdana;
+     text-align:  center;
+	 color; purple;
+ }
+  
+  h1 {
+	 color: black;
+     text-align: center;
+  }
+  
+  h2 {
+	  color: black;
+    text-align: center;
+	
+ } 
+ 
+ p {  
+     font-family: verdana;
+     color: purple;
+ } 
